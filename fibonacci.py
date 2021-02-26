@@ -13,8 +13,8 @@ def find_fib_n_list(n):
         li.append(fib_next)
     return li
 
-n = int(input())
-print(find_fib_n_list(n))
+# n = int(input())
+# print(find_fib_n_list(n))
 
 # for i in range(1, 11):
 #     print(find_fin(i))
